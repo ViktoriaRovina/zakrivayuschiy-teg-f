@@ -78,7 +78,7 @@
   .image-label {
     text-shadow: none;
     -webkit-text-stroke: 1px var(--label-stroke-color);
-    text-stroke: 1px var(--label-stroke-color);
+    text-transform: 1px var(--label-stroke-color);
   }
 }
 
